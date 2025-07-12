@@ -1,4 +1,4 @@
-## Health Sensing Internship Project
+## Health Sensing : Internship Selection Task 
 Sustainability Lab – IIT Gandhinagar
 
 This project is part of an internship assignment for the Sustainability Lab at Indian Institute of Technology Gandhinagar (IITGN). The task involves building a pipeline to detect breathing irregularities and classify sleep stages using physiological signals recorded during overnight sleep sessions.
